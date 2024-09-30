@@ -10,9 +10,9 @@ if not os.path.exists(output_dir):
 
 # List of URLs to scrape
 urls = [
-    "https://www.olayan-sa.com/",
-    "https://www.etqan-insulation.com/",
-    "https://eawazilalwataniuh.com/",
+    "https://example1.com/",
+    "https://example2.com/",
+    "https://example3.com/page1/",
     ]
 
 # Loop through each URL
